@@ -1,3 +1,3 @@
 # incepterkpi
 
-![image info](./pictures/image.png)
+![image info](./pictures/LOGO - Copy.png)
